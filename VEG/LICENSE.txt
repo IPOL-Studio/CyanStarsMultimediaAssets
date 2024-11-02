@@ -1,6 +1,6 @@
-- 路径名：NoteModelsV1.2
+- 路径名：VEG
   - 作者：
-    - 建模与贴图：RedStone_jun
+    - 粒子效果制作：Ybr
   - 协议：CyanStars 多媒体文件使用和贡献规范
 
 ---
