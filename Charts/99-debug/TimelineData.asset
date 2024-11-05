@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d267d061d6f25064ca29be65bbc73fd0, type: 3}
+  m_Name: TimelineData
+  m_EditorClassIdentifier: 
+  Data:
+    Length: 3000
+    NoteTrackData:
+      BaseSpeed: 6
+      SpeedRate: 1
+      LayerDatas:
+      - TimeAxisDatas:
+        - StartTime: 0
+          EasingType: 0
+          Coefficient: 20
+          EndTime: 3000
+          ViewStartTime: 0
+          ViewEndTime: 360000
+          NoteDatas:
+          - Type: 0
+            Pos: 0.75
+            JudgeTime: 1000
+            HoldEndTime: 1000
+            PromptToneType: 0
+            ViewJudgeTime: 120000
+            HoldViewEndTime: 0
+    CameraTrackData:
+      DefaultPosition: {x: 0, y: 15, z: -2.5}
+      DefaultRotation: {x: 45, y: 0, z: 0}
+      KeyFrames: []
+    EffectTrackData:
+      KeyFrames: []
