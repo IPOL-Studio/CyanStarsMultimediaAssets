@@ -4,7 +4,7 @@
 
 \| [简体中文](README.md) | [English](README_en.md) | [繁體中文](README_zh-Hant.md) | **日本語** | [![Crowdin](https://badges.crowdin.net/cyanstars/localized.svg)](https://crowdin.com/project/cyanstars)
 
-# CyanStars 多媒体仓库
+# 测试
 
 这里是中文虚拟歌手同人音乐游戏“[CyanStars](https://github.com/IPOL-Studio/CyanStars)”的多媒体资源仓库。
 
