@@ -4,18 +4,18 @@
 
 \| [简体中文](README.md) | [English](README_en.md) | [繁體中文](README_zh-Hant.md) | **日本語** | [![Crowdin](https://badges.crowdin.net/cyanstars/localized.svg)](https://crowdin.com/project/cyanstars)
 
-# CyanStars 多媒体仓库
+# CyanStars マルチメディアリポジトリ
 
-这里是中文虚拟歌手同人音乐游戏“[CyanStars](https://github.com/IPOL-Studio/CyanStars)”的多媒体资源仓库。
+ここは中国語バーチャルシンガー二次創作音楽ゲーム「[CyanStars](https://github.com/IPOL-Studio/CyanStars)」のマルチメディアリポジトリです。
 
-对于此仓库的一般问题，也请在主仓库下创建 Issue。
+このリポジトリに関する一般的な問題については、メインリポジトリでIssueを作成してください。
 
-重大问题也可通过邮箱联系我们：<chenluan@cyanstars.onaliyun.com>
+重大な問題については、メールでご連絡ください：<chenluan@cyanstars.onaliyun.com>
 
-# 多媒体文件使用和贡献规范
+# マルチメディアファイルの使用と貢献に関するガイドライン
 
-请查阅[主仓库/NOTICE](https://github.com/IPOL-Studio/CyanStars/blob/main/NOTICE)。
+参照してください[メインリポジトリ/NOTICE](https://github.com/IPOL-Studio/CyanStars/blob/main/NOTICE)。
 
-# 贡献指南
+# 貢献ガイド
 
-请查阅[CONTRIBUTING](CONTRIBUTING.md)。
+参照してください[CONTRIBUTING](CONTRIBUTING.md)。
