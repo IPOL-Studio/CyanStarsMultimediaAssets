@@ -16,7 +16,7 @@
 
 # 多媒体文件使用和贡献规范
 
-请查阅[主仓库/NOTICE](https://github.com/IPOL-Studio/CyanStars/blob/main/NOTICE)。
+请查阅[主仓库/LICENSE](https://github.com/IPOL-Studio/CyanStars/blob/main/LICENSE.md)。
 
 
 # 贡献指南

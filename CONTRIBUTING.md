@@ -10,7 +10,7 @@
 
 ## 在开始之前
 
-对于多媒体仓库的贡献需要提前经过审核和许可，请阅读并同意 [多媒体文件使用和贡献规范](https://github.com/IPOL-Studio/CyanStars/blob/main/NOTICE)。
+对于多媒体仓库的贡献需要提前经过审核和许可，请阅读并同意 [多媒体文件使用和贡献规范](https://github.com/IPOL-Studio/CyanStars/blob/main/LICENSE.md)。
 
 随后，您可通过任一方法来提交审核：
 
@@ -31,7 +31,7 @@
 - 作品名
 - 创作团队（包含每个创作者的职务和署名）
 - 作品的相关链接（包含平台名和URL）
-- 声明遵循 [贡献规范](https://github.com/IPOL-Studio/CyanStars/blob/main/NOTICE)
+- 声明遵循 [贡献规范](https://github.com/IPOL-Studio/CyanStars/blob/main/LICENSE.md)
 
 另外，如果作品风格与游戏主题接近，会更快和更容易地通过审核。
 
