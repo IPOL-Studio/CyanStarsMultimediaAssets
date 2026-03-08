@@ -14,7 +14,7 @@ For significant issues, you can also contact us via email: <chenluan@cyanstars.o
 
 # Multimedia File Usage and Contribution Guidelines
 
-请查阅[主仓库/LICENSE](https://github.com/IPOL-Studio/CyanStars/blob/main/LICENSE.md)。
+Please refer to the [main repository/LICENSE](https://github.com/IPOL-Studio/CyanStars/blob/main/LICENSE.md).
 
 # Contribution Guidelines
 
