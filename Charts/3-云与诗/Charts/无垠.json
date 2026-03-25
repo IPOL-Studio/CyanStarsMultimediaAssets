@@ -1,0 +1,1504 @@
+{
+  "ReadyBeat": 4,
+  "SpeedGroupDatas": [
+    {
+      "Name": "",
+      "Type": 0,
+      "BezierCurves": [
+        {
+          "PositionPoint": {
+            "MsTime": 0,
+            "Value": 1.0
+          },
+          "LeftControlPoint": {
+            "MsTime": 0,
+            "Value": 1.0
+          },
+          "RightControlPoint": {
+            "MsTime": 0,
+            "Value": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 8,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.775
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 10,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.275
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 12,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.525
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 14,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.025
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 16,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.775
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 18,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.275
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 20,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.525
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 22,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.025
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 24,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.775
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 26,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.275
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 28,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.525
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 30,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.025
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 32,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.775
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 34,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.275
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 36,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.525
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 38,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.025
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 39,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.525
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 40,
+        "Numerator": 0,
+        "Denominator": 1
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.1
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 41,
+        "Numerator": 0,
+        "Denominator": 1
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 42,
+        "Numerator": 0,
+        "Denominator": 1
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.2
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 42,
+        "Numerator": 3,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.6
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 43,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.4
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 45,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.8
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 46,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.1
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 46,
+        "Numerator": 3,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.6
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 47,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.3
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 48,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 49,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.0
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 50,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.6
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 50,
+        "Numerator": 3,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.2
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 51,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.4
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 53,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.1
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 53,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.6
+    },
+    {
+      "HoldEndSpeedGroupIndex": 0,
+      "EndJudgeBeat": {
+        "IntegerPart": 55,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "Type": 1,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 54,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.3
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 54,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.5
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 55,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.5
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 56,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.1
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 56,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 57,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7333333
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 57,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.4
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 58,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.566666663
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 58,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.233333319
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 59,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.4
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 59,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7333333
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 59,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.06666664
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 61,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.06666664
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 61,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.4
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 62,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.233333319
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 62,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.566666663
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 63,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.4
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 63,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7333333
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 64,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.1
+    },
+    {
+      "HoldEndSpeedGroupIndex": 0,
+      "EndJudgeBeat": {
+        "IntegerPart": 66,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "Type": 1,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 65,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.6
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 66,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.1
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 66,
+        "Numerator": 3,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.2
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 67,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.3
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 69,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7
+    },
+    {
+      "HoldEndSpeedGroupIndex": 0,
+      "EndJudgeBeat": {
+        "IntegerPart": 70,
+        "Numerator": 3,
+        "Denominator": 4
+      },
+      "Type": 1,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 70,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.1
+    },
+    {
+      "HoldEndSpeedGroupIndex": 0,
+      "EndJudgeBeat": {
+        "IntegerPart": 71,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "Type": 1,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 70,
+        "Numerator": 3,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.6
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 71,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.3
+    },
+    {
+      "HoldEndSpeedGroupIndex": 0,
+      "EndJudgeBeat": {
+        "IntegerPart": 80,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "Type": 1,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 72,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.775
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 73,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.15
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 75,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.275
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 78,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.4
+    },
+    {
+      "HoldEndSpeedGroupIndex": 0,
+      "EndJudgeBeat": {
+        "IntegerPart": 88,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "Type": 1,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 80,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.025
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 81,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.65
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 83,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.525
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 86,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.4
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 88,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.65
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 90,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.15
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 92,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.65
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 93,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.65
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 94,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.15
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 95,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.15
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 95,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.15
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 96,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.775
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 96,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.775
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 97,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.275
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 97,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.275
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 98,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.525
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 98,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.525
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 99,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.025
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 99,
+        "Numerator": 1,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.025
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 100,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 100,
+        "Numerator": 1,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 100,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 100,
+        "Numerator": 3,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.7
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 101,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.3
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 101,
+        "Numerator": 1,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.3
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 101,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.3
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 101,
+        "Numerator": 3,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.3
+    },
+    {
+      "Type": 0,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 102,
+        "Numerator": 0,
+        "Denominator": 2
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.5
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 102,
+        "Numerator": 1,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.5
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 102,
+        "Numerator": 2,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.5
+    },
+    {
+      "Type": 2,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 102,
+        "Numerator": 3,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.5
+    },
+    {
+      "Type": 3,
+      "SpeedGroupIndex": 0,
+      "SpeedGroupOffset": 0,
+      "CorrectAudioName": null,
+      "HitAudioName": null,
+      "JudgeBeat": {
+        "IntegerPart": 103,
+        "Numerator": 0,
+        "Denominator": 4
+      },
+      "JudgeAble": true,
+      "ViewAble": true,
+      "Pos": 0.1
+    }
+  ],
+  "TrackDatas": []
+}
