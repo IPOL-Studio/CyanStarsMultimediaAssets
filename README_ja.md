@@ -14,7 +14,7 @@
 
 # マルチメディアファイルの使用と貢献に関するガイドライン
 
-参照してください[メインリポジトリ/NOTICE](https://github.com/IPOL-Studio/CyanStars/blob/main/NOTICE)。
+请查阅[主仓库/LICENSE](https://github.com/IPOL-Studio/CyanStars/blob/main/LICENSE.md)。
 
 # 貢献ガイド
 
