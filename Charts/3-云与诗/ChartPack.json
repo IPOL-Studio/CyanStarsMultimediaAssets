@@ -65,11 +65,11 @@
     "Denominator": 1
   },
   "CoverFilePath": "Assets/Cover.png",
-  "CropStartPosition": {
+  "CropStartPositionPercent": {
     "x": 0.0,
-    "y": 1355.556
+    "y": 0.320446968
   },
-  "CropHeight": 1838.0,
+  "CropHeightPercent": 0.4595,
   "ChartMetaDatas": [
     {
       "FilePath": "Charts/无垠.json",
