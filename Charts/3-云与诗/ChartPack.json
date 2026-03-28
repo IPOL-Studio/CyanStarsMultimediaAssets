@@ -1,0 +1,81 @@
+{
+  "DataVersion": 1,
+  "Title": "云与诗",
+  "MusicVersionDatas": [
+    {
+      "VersionTitle": "ACE",
+      "AudioFilePath": "Assets/Music.ogg",
+      "Offset": 0,
+      "Staffs": {
+        "爆音常安": [
+          "作曲",
+          "编曲",
+          "调参",
+          "作词"
+        ],
+        "洛春城": [
+          "作词"
+        ],
+        "龙羽凌": [
+          "作曲",
+          "编曲",
+          "监制"
+        ],
+        "Anasynth": [
+          "混音"
+        ],
+        "Cloud of illusion幻云文创": [
+          "制作",
+          "企划",
+          "发行"
+        ],
+        "阿丹": [
+          "封面"
+        ],
+        "实心餐椅": [
+          "游戏曲绘"
+        ],
+        "晨峦": [
+          "谱面设计"
+        ],
+        "洛天依": [
+          "演唱"
+        ]
+      }
+    }
+  ],
+  "BpmGroup": [
+    {
+      "Bpm": 128.0,
+      "StartBeat": {
+        "IntegerPart": 0,
+        "Numerator": 0,
+        "Denominator": 1
+      }
+    }
+  ],
+  "MusicPreviewStartBeat": {
+    "IntegerPart": 0,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "MusicPreviewEndBeat": {
+    "IntegerPart": 0,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "CoverFilePath": "Assets/Cover.png",
+  "CropStartPosition": {
+    "x": 0.0,
+    "y": 1355.556
+  },
+  "CropHeight": 1838.0,
+  "ChartMetaDatas": [
+    {
+      "FilePath": "Charts/无垠.json",
+      "Difficulty": 3,
+      "Level": "",
+      "ChartHash": null
+    }
+  ]
+}

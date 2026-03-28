@@ -1,0 +1,46 @@
+{
+  "DataVersion": 1,
+  "Title": "260308090241-175b24b",
+  "MusicVersionDatas": [
+    {
+      "VersionTitle": "新音乐版本",
+      "AudioFilePath": "Assets/1772931714.ogg",
+      "Offset": 306,
+      "Staffs": {}
+    }
+  ],
+  "BpmGroup": [
+    {
+      "Bpm": 192.0,
+      "StartBeat": {
+        "IntegerPart": 0,
+        "Numerator": 0,
+        "Denominator": 1
+      }
+    }
+  ],
+  "MusicPreviewStartBeat": {
+    "IntegerPart": 0,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "MusicPreviewEndBeat": {
+    "IntegerPart": 0,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "CoverFilePath": null,
+  "CropStartPosition": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "CropHeight": 0.0,
+  "ChartMetaDatas": [
+    {
+      "FilePath": "Charts/260308090241-175b24b.json",
+      "Difficulty": null,
+      "Level": "",
+      "ChartHash": null
+    }
+  ]
+}
