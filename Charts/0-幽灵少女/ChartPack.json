@@ -1,0 +1,74 @@
+{
+  "DataVersion": 1,
+  "Title": "幽灵少女",
+  "MusicVersionDatas": [
+    {
+      "VersionTitle": "新音乐版本",
+      "AudioFilePath": "Assets/Music.ogg",
+      "Offset": -90,
+      "Staffs": {
+        "天天凉凉豆": [
+          "调校"
+        ],
+        "逸恬清": [
+          "混音"
+        ],
+        "作编曲": [
+          "神兔小P"
+        ],
+        "作词": [
+          "Jackdaw祁源"
+        ],
+        "曲绘": [
+          "深谷-shintani"
+        ],
+        "视频": [
+          "观月景"
+        ],
+        "策划": [
+          "时尚"
+        ],
+        "晨峦": [
+          "谱面设计"
+        ],
+        "胖头鱼": [
+          "游戏曲绘"
+        ]
+      }
+    }
+  ],
+  "BpmGroup": [
+    {
+      "Bpm": 122.0,
+      "StartBeat": {
+        "IntegerPart": 0,
+        "Numerator": 0,
+        "Denominator": 1
+      }
+    }
+  ],
+  "MusicPreviewStartBeat": {
+    "IntegerPart": 305,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "MusicPreviewEndBeat": {
+    "IntegerPart": 336,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "CoverFilePath": "Assets/Cover.png",
+  "CropStartPositionPercent": {
+    "x": 0.0,
+    "y": 0.5735739
+  },
+  "CropHeightPercent": 0.4264261,
+  "ChartMetaDatas": [
+    {
+      "FilePath": "Charts/窥星.json",
+      "Difficulty": 0,
+      "Level": "1",
+      "ChartHash": null
+    }
+  ]
+}
