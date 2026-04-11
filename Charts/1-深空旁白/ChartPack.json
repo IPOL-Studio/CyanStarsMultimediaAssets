@@ -1,0 +1,46 @@
+{
+  "DataVersion": 1,
+  "Title": "深空旁白",
+  "MusicVersionDatas": [
+    {
+      "VersionTitle": "深空旁白",
+      "AudioFilePath": "Assets/Music.ogg",
+      "Offset": 100,
+      "Staffs": {}
+    }
+  ],
+  "BpmGroup": [
+    {
+      "Bpm": 82.0,
+      "StartBeat": {
+        "IntegerPart": 0,
+        "Numerator": 0,
+        "Denominator": 1
+      }
+    }
+  ],
+  "MusicPreviewStartBeat": {
+    "IntegerPart": 0,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "MusicPreviewEndBeat": {
+    "IntegerPart": 0,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "CoverFilePath": "Assets/Cover.png",
+  "CropStartPositionPercent": {
+    "x": 0.0,
+    "y": 0.445965976
+  },
+  "CropHeightPercent": 0.444444448,
+  "ChartMetaDatas": [
+    {
+      "FilePath": "Charts/启明.json",
+      "Difficulty": 1,
+      "Level": "3",
+      "ChartHash": null
+    }
+  ]
+}
