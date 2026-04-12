@@ -3,7 +3,7 @@
   "Title": "幽灵少女",
   "MusicVersionDatas": [
     {
-      "VersionTitle": "新音乐版本",
+      "VersionTitle": "Vocaloid",
       "AudioFilePath": "Assets/Music.ogg",
       "Offset": -90,
       "Staffs": {
@@ -13,20 +13,20 @@
         "逸恬清": [
           "混音"
         ],
-        "作编曲": [
-          "神兔小P"
+        "神兔小P": [
+          "作编曲"
         ],
-        "作词": [
-          "Jackdaw祁源"
+        "Jackdaw祁源": [
+          "作词"
         ],
-        "曲绘": [
-          "深谷-shintani"
+        "深谷-shintani": [
+          "曲绘"
         ],
-        "视频": [
-          "观月景"
+        "观月景": [
+          "视频"
         ],
-        "策划": [
-          "时尚"
+        "时尚": [
+          "策划"
         ],
         "晨峦": [
           "谱面设计"
