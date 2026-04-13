@@ -1,0 +1,59 @@
+{
+  "DataVersion": 1,
+  "Title": "深空旁白",
+  "MusicVersionDatas": [
+    {
+      "VersionTitle": "Vocaloid",
+      "AudioFilePath": "Assets/Music.ogg",
+      "Offset": 100,
+      "Staffs": {
+        "AfterLight余晖": [
+          "作编绘混调词"
+        ],
+        "魎天青": [
+          "视频"
+        ],
+        " mika": [
+          "游戏曲绘"
+        ],
+        "晨峦": [
+          "谱面设计"
+        ]
+      }
+    }
+  ],
+  "BpmGroup": [
+    {
+      "Bpm": 82.0,
+      "StartBeat": {
+        "IntegerPart": 0,
+        "Numerator": 0,
+        "Denominator": 1
+      }
+    }
+  ],
+  "MusicPreviewStartBeat": {
+    "IntegerPart": 0,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "MusicPreviewEndBeat": {
+    "IntegerPart": 0,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "CoverFilePath": "Assets/Cover.png",
+  "CropStartPositionPercent": {
+    "x": 0.0,
+    "y": 0.445965976
+  },
+  "CropHeightPercent": 0.444444448,
+  "ChartMetaDatas": [
+    {
+      "FilePath": "Charts/启明.json",
+      "Difficulty": 1,
+      "Level": "3",
+      "ChartHash": null
+    }
+  ]
+}
