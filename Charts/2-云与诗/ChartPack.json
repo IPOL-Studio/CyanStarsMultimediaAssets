@@ -72,9 +72,9 @@
   "CropHeightPercent": 0.4595,
   "ChartMetaDatas": [
     {
-      "FilePath": "Charts/无垠.json",
-      "Difficulty": 3,
-      "Level": "",
+      "FilePath": "Charts/天枢.json",
+      "Difficulty": 2,
+      "Level": "10",
       "ChartHash": null
     }
   ]
