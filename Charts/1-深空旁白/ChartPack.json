@@ -3,10 +3,23 @@
   "Title": "深空旁白",
   "MusicVersionDatas": [
     {
-      "VersionTitle": "深空旁白",
+      "VersionTitle": "Vocaloid",
       "AudioFilePath": "Assets/Music.ogg",
       "Offset": 100,
-      "Staffs": {}
+      "Staffs": {
+        "AfterLight余晖": [
+          "作编绘混调词"
+        ],
+        "魎天青": [
+          "视频"
+        ],
+        " mika": [
+          "游戏曲绘"
+        ],
+        "晨峦": [
+          "谱面设计"
+        ]
+      }
     }
   ],
   "BpmGroup": [
