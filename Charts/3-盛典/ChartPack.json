@@ -1,0 +1,56 @@
+{
+  "DataVersion": 1,
+  "Title": "盛典",
+  "MusicVersionDatas": [
+    {
+      "VersionTitle": "盛典",
+      "AudioFilePath": "Assets/盛典.ogg",
+      "Offset": 16,
+      "Staffs": {
+        "血黎Maple": [
+          "谱面设计"
+        ],
+        "寻仙仙": [
+          "游戏曲绘"
+        ],
+        "QGRay": [
+          "词曲编混调视绘"
+        ]
+      }
+    }
+  ],
+  "BpmGroup": [
+    {
+      "Bpm": 270.0,
+      "StartBeat": {
+        "IntegerPart": 0,
+        "Numerator": 0,
+        "Denominator": 1
+      }
+    }
+  ],
+  "MusicPreviewStartBeat": {
+    "IntegerPart": 0,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "MusicPreviewEndBeat": {
+    "IntegerPart": 0,
+    "Numerator": 0,
+    "Denominator": 1
+  },
+  "CoverFilePath": "Assets/Cover.png",
+  "CropStartPositionPercent": {
+    "x": 0.0,
+    "y": 0.5316667
+  },
+  "CropHeightPercent": 0.468333334,
+  "ChartMetaDatas": [
+    {
+      "FilePath": "Charts/无垠.json",
+      "Difficulty": 3,
+      "Level": "20",
+      "ChartHash": null
+    }
+  ]
+}
