@@ -1,0 +1,72 @@
+# 此工作流用于检查所有文件是否有对应的 license 文本
+# 根目录下的文件不参与检查，其他目录下的文件需要检查当前层级或上层是否存在 license 文件，以确保每个文件都有明确的版权归属
+# 根目录中的仓库 license 不包括在内
+
+
+name: License Coverage Check
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  check-licenses:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository (Metadata only)
+        uses: actions/checkout@v4
+        with:
+          # Blobless Clone，只拉取目录树，不下载任何文件实体内容！
+          filter: blob:none
+          # 稀疏检出，只把 .github 检出到物理硬盘，避免大文件写入耗时
+          sparse-checkout: .github
+
+      - name: Verify License Files via Git Tree
+        shell: bash
+        run: |
+          # 检查文件 license 覆盖情况
+          ALL_FILES=$(git -c core.quotePath=false ls-tree -r --name-only HEAD)
+
+          # 1. 扫描所有 license 文件，提取它们所在的目录
+          declare -A LICENSE_DIRS
+          while IFS= read -r license_file; do
+            dir=$(dirname "$license_file")
+            LICENSE_DIRS["$dir"]="true"
+          done < <(echo "$ALL_FILES" | grep -iE '(^|/)license(\.[^/]+)?$')
+
+          ALL_PASSED=true
+          echo "开始检查 License 覆盖情况..."
+
+          # 2. 遍历需要检查的文件
+          while IFS= read -r file; do
+            dir=$(dirname "$file")
+            current_dir="$dir"
+            found=false
+
+            # 向上遍历目录，直到到达根目录 (".") 
+            while [[ "$current_dir" != "." ]]; do
+              if [[ "${LICENSE_DIRS["$current_dir"]}" == "true" ]]; then
+                found=true
+                break
+              fi
+              # 获取上一级目录
+              current_dir=$(dirname "$current_dir")
+            done
+
+            if [[ "$found" == false ]]; then
+              echo "❌ 违规文件: $file (在其路径及非根父目录中未找到 License)"
+              ALL_PASSED=false
+            fi
+          done < <(echo "$ALL_FILES" | grep -vEi '\.meta$' | grep -vE '^\.github/' | grep '/')
+
+          if [[ "$ALL_PASSED" == false ]]; then
+            echo "❌ License 覆盖检查未通过！请为上述文件补充 license 文件。"
+            exit 1
+          else
+            echo "✅ License 覆盖检查通过。"
+          fi
