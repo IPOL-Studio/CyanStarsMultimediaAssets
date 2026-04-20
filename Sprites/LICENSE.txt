@@ -1,0 +1,2 @@
+- Icons: ©Google, under Apache-License-2.0 (https://github.com/google/material-design-icons/blob/master/LICENSE)
+- Images: ©IPOL-Studio, under 多媒体文件使用与贡献协议 (https://github.com/IPOL-Studio/CyanStars/blob/main/LICENSE.md)
