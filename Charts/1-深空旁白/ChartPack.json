@@ -1,25 +1,12 @@
 {
   "DataVersion": 1,
   "Title": "深空旁白",
+  "ChartPackInfo": "- 音乐作者：\r\n    - 作曲、编曲、曲绘、封面、混音、调校、作词：[@AfterLight余晖]\n    - 视频：[@魎天青]\n- 相关链接：\n    - [哔哩哔哩](https://www.bilibili.com/video/BV1CY411G7Fb)\n    - [网易云音乐](https://music.163.com/#/song?id=1927925447)\n- 游戏曲绘：[@mika]\n- 谱面设计：[@晨峦]\n- 演唱：[@洛天依]",
   "MusicVersionDatas": [
     {
       "VersionTitle": "Vocaloid",
       "AudioFilePath": "Assets/Music.ogg",
-      "Offset": 100,
-      "Staffs": {
-        "AfterLight余晖": [
-          "作编绘混调词"
-        ],
-        "魎天青": [
-          "视频"
-        ],
-        " mika": [
-          "游戏曲绘"
-        ],
-        "晨峦": [
-          "谱面设计"
-        ]
-      }
+      "Offset": 100
     }
   ],
   "BpmGroup": [
