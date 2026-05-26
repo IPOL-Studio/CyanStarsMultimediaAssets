@@ -1,7 +1,7 @@
 - 文件名：Assets/Music.ogg
   - 文件别名：盛典
   - 作者：
-    - 作词/作曲/编曲/混音/调教/PV视频/曲绘封面：QGRay
+    - 作词/作曲/编曲/混音/调校/PV视频/曲绘封面：QGRay
   - 相关链接：
     - 哔哩哔哩：https://www.bilibili.com/video/BV1Kv4y1c76k
     - 网易云音乐：https://music.163.com/#/song?id=1971794523
@@ -10,7 +10,7 @@
 - 文件名：Charts/*.json
   - 文件别名：盛典（谱面）
   - 作者：
-    - 谱师：血黎Maple
+    - 谱师：晨峦
   - 协议：CyanStars 多媒体文件使用和贡献规范
 
 - 文件名：Assets/Cover.png
